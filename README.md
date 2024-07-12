@@ -1,1 +1,1 @@
-# Texture Mapping Student Version
+# Texture Mapping 
