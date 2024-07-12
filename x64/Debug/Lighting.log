@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\main.cpp(810,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\main.cpp(815,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\main.cpp(820,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\main.cpp(825,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\main.cpp(830,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\main.cpp(835,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> C:\Users\mi\OneDrive\Desktop\Texture Mapping Student Version\x64\Debug\Lighting.exe
